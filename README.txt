@@ -1,32 +1,67 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Corey Shamburger — Software Developer Portfolio
 
+Live Site:
+https://cshamburger.github.io/CoreyPortfolio/
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## About Me
+I am a Full-Stack Software Developer specializing in Python backend development and web applications. I build practical, real-world systems that solve operational problems and automate business workflows.
 
-(* = Not included)
+My work focuses on:
+- Backend application development
+- Automation scripting
+- Database-driven systems
+- IT service tooling
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## Projects
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+### IT Service Management Ticketing System
+A full web-based help desk application built with Flask and SQLite.
 
+Features:
+- Ticket creation and tracking
+- Technician notes
+- Status management
+- Priority levels
+- Database persistence
 
-Credits:
+Technologies:
+Python, Flask, SQLAlchemy, HTML, CSS
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### Ticket Triage Automation Bot
+A Python automation tool that analyzes support tickets and assigns priority and support groups automatically based on impact and urgency.
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Features:
+- Automatic priority assignment (P1–P4)
+- Keyword classification
+- CSV reporting
+- Search and filtering
+
+Technologies:
+Python, FastAPI, File I/O, CLI workflows
+
+---
+
+### Employee Payroll Management System
+A Python payroll web application that calculates wages, overtime, taxes, and net pay.
+
+Features:
+- Overtime calculations
+- Input validation
+- Tax deductions
+- Clean UI interface
+
+Technologies:
+Python, Flask, HTML, CSS
+
+---
+
+## Contact
+Email: ctshamburger81@hotmail.com  
+LinkedIn: https://www.linkedin.com/in/ctshamburger
+GitHub: https://github.com/cshamburger
